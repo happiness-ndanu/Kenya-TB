@@ -1,0 +1,7 @@
+install.packages("shiny")
+install.packages("tidyverse")
+install.packages("here")
+install.packages("janitor")
+install.packages("paletteer")
+install.packages("sf")
+install.packages("leaflet")
