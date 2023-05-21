@@ -28,6 +28,8 @@ library(leaflet)
 #saveRDS(tuberclosis, "tuberclosis")
 
 # Read RDS 
+tuberclosis <- readr::read_csv("https://github.com/R-icntay/TB_Kenya_Analysis/raw/main/TB_Kenya/tuberclosis.csv") %>%
+  clean_names()
 tuberclosis <- readRDS("tuberclosis")
 
 
