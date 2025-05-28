@@ -4,6 +4,9 @@ An interactive data dashboard built in **R** and **Shiny** that visualizes Tuber
 
 🔗 **Live App:** [TB Dashboard - Kenya](https://happinessndanu1.shinyapps.io/TB_Kenya/)
 
+
+![](dashboard_tb.png)
+
 ---
 
 ## 📊 Features
