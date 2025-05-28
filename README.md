@@ -56,4 +56,6 @@ shiny::runApp()
 ## Author
 Happiness Ndanu M
 
+happiness.ndanu.m@gmail.com
+
 Data Analyst| R Developer |Health Data Enthusiast
