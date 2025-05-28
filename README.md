@@ -41,7 +41,7 @@ This dashboard was created to:
 
 ```r
 # Clone this repo
-git clone https://github.com/your-username/TB_Kenya.git
+git clone https://github.com/happiness-ndanu/TB_Kenya.git
 
 # Open in RStudio
 setwd("TB_Kenya")
